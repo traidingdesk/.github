@@ -4,3 +4,7 @@ AI trading journal for MetaTrader 5. It finds the habits that cost you money, sh
 No trading signals, no buy or sell recommendations.
 
 Website: https://www.traidingdesk.com · Languages: EN, DE, ES, FR, PT, HI, ZH
+
+### Open source
+
+- [mt5-report-parser](https://github.com/traidingdesk/mt5-report-parser): turn the MetaTrader 5 account history report (`ReportHistory.html`) into clean JSON or CSV. Runs locally, MIT license.
